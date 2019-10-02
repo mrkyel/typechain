@@ -1,0 +1,15 @@
+{
+  "name": "TYPECHAIN",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/mrkyel/typechain.git",
+  "author": "mrkyel <44009984+mrkyel@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \"node dist/index.js\" "
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.0.0"
+  }
+}
