@@ -1,5 +1,5 @@
 {
-  "name": "TYPECHAIN",
+  "name": "typechain",
   "version": "1.0.0",
   "description": "Learning Typescript by making a Blockchain with it",
   "main": "index.js",
@@ -11,5 +11,8 @@
   },
   "devDependencies": {
     "tsc-watch": "^4.0.0"
+  },
+  "dependencies": {
+    "typescript": "^3.6.3"
   }
 }
